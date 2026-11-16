@@ -1,1 +1,1 @@
-# SAM-AI-Data-Analyst-Internship
+Data-Analyst-for-Cuisine
